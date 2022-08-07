@@ -1,0 +1,17 @@
+{
+  "name": "starbucks-second",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bundler": "^0.8.0",
+    "parcel": "^2.7.0"
+  }
+}
